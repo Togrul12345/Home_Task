@@ -1,0 +1,14 @@
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\bin\Debug\net8.0\SystemMenecmentSystemEdit.exe
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\bin\Debug\net8.0\SystemMenecmentSystemEdit.deps.json
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\bin\Debug\net8.0\SystemMenecmentSystemEdit.runtimeconfig.json
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\bin\Debug\net8.0\SystemMenecmentSystemEdit.dll
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\bin\Debug\net8.0\SystemMenecmentSystemEdit.pdb
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\SystemMenecmentSystemEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\SystemMenecmentSystemEdit.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\SystemMenecmentSystemEdit.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\SystemMenecmentSystemEdit.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\SystemMenecmentSystemEdit.dll
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\refint\SystemMenecmentSystemEdit.dll
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\SystemMenecmentSystemEdit.pdb
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\SystemMenecmentSystemEdit.genruntimeconfig.cache
+C:\Users\Togrul\source\repos\SystemMenecmentSystemEdit\SystemMenecmentSystemEdit\obj\Debug\net8.0\ref\SystemMenecmentSystemEdit.dll
