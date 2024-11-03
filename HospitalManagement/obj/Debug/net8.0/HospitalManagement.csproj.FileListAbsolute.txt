@@ -1,0 +1,14 @@
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\HospitalManagement.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\HospitalManagement.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net8.0\HospitalManagement.exe
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net8.0\HospitalManagement.deps.json
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net8.0\HospitalManagement.runtimeconfig.json
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net8.0\HospitalManagement.dll
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net8.0\HospitalManagement.pdb
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\HospitalManagement.dll
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\refint\HospitalManagement.dll
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\HospitalManagement.pdb
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\HospitalManagement.genruntimeconfig.cache
+C:\Users\Togrul\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net8.0\ref\HospitalManagement.dll
