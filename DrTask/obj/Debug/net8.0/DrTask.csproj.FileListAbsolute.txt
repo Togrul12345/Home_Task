@@ -1,0 +1,17 @@
+C:\Users\Togrul\source\repos\DrTask\DrTask\bin\Debug\net8.0\DrTask.exe
+C:\Users\Togrul\source\repos\DrTask\DrTask\bin\Debug\net8.0\DrTask.deps.json
+C:\Users\Togrul\source\repos\DrTask\DrTask\bin\Debug\net8.0\DrTask.runtimeconfig.json
+C:\Users\Togrul\source\repos\DrTask\DrTask\bin\Debug\net8.0\DrTask.dll
+C:\Users\Togrul\source\repos\DrTask\DrTask\bin\Debug\net8.0\DrTask.pdb
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.dll
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\refint\DrTask.dll
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.pdb
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.genruntimeconfig.cache
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\ref\DrTask.dll
+C:\Users\Togrul\source\repos\DrTask\DrTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\DrTask\DrTask\obj\Debug\net8.0\DrTask.csproj.Up2Date
