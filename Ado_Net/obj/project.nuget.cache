@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xKzGDmWrppo=",
+  "dgSpecHash": "y6cTlNH1DIU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Togrul\\source\\repos\\Ado_Net\\Ado_Net\\Ado_Net.csproj",
+  "projectFilePath": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Ado_Net\\Ado_Net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Togrul\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Togrul\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

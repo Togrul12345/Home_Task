@@ -1,0 +1,11 @@
+﻿@using MvcTask1.Models;
+@model List<Student>;
+@{
+    Layout = "_Layout";
+}
+@foreach (Student item in @Model)
+{
+           <h1>@item.Id</h1>
+           <h2>@item.Name</h2>
+}
+   
