@@ -40,12 +40,22 @@ namespace AcademtManagementEFApp.Services.Concretes
 
         public List<Student> GetStudensByEnrollmentDate(int days)
         {
-            return _dbContext.Students.Where(a => a.EnrollmentDate.Day > DateTime.Now.Day - 3).ToList();
+            return _dbContext.Students.Where(a => a.EnrollmentDate > DateTime.Now.AddDays(-days)).ToList();
         }
 
         public Student GetStudentById(int id)
         {
-            return _dbContext.Students.Where(a => a.Id == id).First();
+            Student? student = _dbContext.Students.Find(id);
+            if (student == null)
+            {
+                Console.WriteLine("tapilmadi");
+                return null;
+            }
+            else
+            {
+                return student;
+            }
+            
         }
 
         public List<Student> GetStudentsByName(string name)
@@ -84,12 +94,10 @@ namespace AcademtManagementEFApp.Services.Concretes
                 Console.WriteLine("student not found");
             }
 
-            //foreach (var item in _dbContext.Students.Where(a => a.Id == id).ToList())
-            //{
-            //    item = student;
-            //}
 
 
+
+           
 
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTwxyzvO56U=",
+  "dgSpecHash": "7kQVIj6920s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Togrul\\source\\repos\\AcademtManagementEFApp\\AcademtManagementEFApp\\AcademtManagementEFApp.csproj",
+  "projectFilePath": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\AcademtManagementEFApp\\AcademtManagementEFApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Togrul\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Togrul\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -81,5 +81,12 @@
     "C:\\Users\\Togrul\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Togrul\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
