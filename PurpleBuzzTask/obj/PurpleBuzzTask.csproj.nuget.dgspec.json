@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Togrul\\source\\repos\\PurpleBuzzTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj": {}
+    "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Togrul\\source\\repos\\PurpleBuzzTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj": {
+    "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Togrul\\source\\repos\\PurpleBuzzTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj",
+        "projectUniqueName": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj",
         "projectName": "PurpleBuzzTask",
-        "projectPath": "C:\\Users\\Togrul\\source\\repos\\PurpleBuzzTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj",
+        "projectPath": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj",
         "packagesPath": "C:\\Users\\Togrul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Togrul\\source\\repos\\PurpleBuzzTask\\PurpleBuzzTask\\obj\\",
+        "outputPath": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

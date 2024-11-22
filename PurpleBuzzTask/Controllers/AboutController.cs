@@ -17,7 +17,7 @@ namespace PurpleBuzzTask.Controllers
             { 
                 UserName = "Muxtar Huseynov",
                 Profession = "Responsive-Design",
-                ImgUrl = "~/img/team-02.jpg"
+                ImgUrl = "team-02.jpg"
 
 
             };
@@ -25,22 +25,23 @@ namespace PurpleBuzzTask.Controllers
             {
                 UserName = "Togrul Bagirov",
                 Profession = "Backend-Developer",
-                ImgUrl = "~/img/team-03.jpg"
+                ImgUrl = "team-03.jpg"
             };
             TeamMate teamMate3 = new TeamMate()
             {
                 UserName = "Cebrayil Cebrayilov",
                 Profession = "Frontend-Developer",
-                 ImgUrl = "~/img/team-01.jpg"
+                 ImgUrl = "team-01.jpg"
             };
 
+            //context.TeamMates.AddRange(teamMate, teamMate2, teamMate3);
+            //context.SaveChanges();
+            IEnumerable<TeamMate> teamMates = context.TeamMates;
 
-            //AppDbContext dbContext = new AppDbContext();
-            //dbContext.AddRange(teamMates);
-            //dbContext.SaveChanges();
-            context.TeamMates.AddRange(teamMate, teamMate2, teamMate3);
-            context.SaveChanges();
-            IEnumerable<TeamMate> teamMates= context.TeamMates;
+            
+           
+           
+           
             
      
             

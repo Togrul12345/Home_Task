@@ -35,8 +35,8 @@ namespace PurpleBuzzTask.Controllers
 
             };
             
-            _dbContext.Contacts.AddRange(contact,contact2,contact3);
-            _dbContext.SaveChanges();
+            //_dbContext.Contacts.AddRange(contact,contact2,contact3);
+            //_dbContext.SaveChanges();
             IEnumerable<Contact> contacts= _dbContext.Contacts;
             return View(contacts);
         }

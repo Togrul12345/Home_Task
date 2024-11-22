@@ -11,7 +11,7 @@ using PurpleBuzzTask.DAL;
 namespace PurpleBuzzTask.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241122070719_InitialCreate")]
+    [Migration("20241122133746_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

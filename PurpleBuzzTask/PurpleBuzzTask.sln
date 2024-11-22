@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35410.144 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurpleBuzzTask", "PurpleBuzzTask.csproj", "{233433B0-204B-4C49-9D69-E4CF6A68724A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233433B0-204B-4C49-9D69-E4CF6A68724A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233433B0-204B-4C49-9D69-E4CF6A68724A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233433B0-204B-4C49-9D69-E4CF6A68724A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233433B0-204B-4C49-9D69-E4CF6A68724A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
