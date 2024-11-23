@@ -257,12 +257,7 @@ C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\run
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\obj\Debug\net8.0\PurpleBuzzTask.csproj.AssemblyReference.cache
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\obj\Debug\net8.0\PurpleBuzzTask.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\obj\Debug\net8.0\PurpleBuzzTask.AssemblyInfoInputs.cache
@@ -289,3 +284,8 @@ C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\obj\Debug\net8.0\ref
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\obj\Debug\net8.0\PurpleBuzzTask.pdb
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\obj\Debug\net8.0\PurpleBuzzTask.genruntimeconfig.cache
 C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\obj\Debug\net8.0\ref\PurpleBuzzTask.dll
+C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Togrul\OneDrive\Masaüstü\HomeTask\PurpleBuzzTask\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

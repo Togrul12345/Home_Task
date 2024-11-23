@@ -14,18 +14,18 @@
  * MIT license
  */
 
-/* jshint browser: true, strict: true, undef: true, unused: true */
+/* ~/jshint browser: true, strict: true, undef: true, unused: true */
 
 ( function( window, factory ) {
   // universal module definition
-  /*jshint strict: false */ /* globals define, module, require */
+  /*~/jshint strict: false */ /* globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
     define( 'jquery-bridget/jquery-bridget',[ 'jquery' ], function( jQuery ) {
       return factory( window, jQuery );
     });
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       window,
       require('jquery')
@@ -158,16 +158,16 @@ return jQueryBridget;
  * MIT License
  */
 
-/* jshint unused: true, undef: true, strict: true */
+/* ~/jshint unused: true, undef: true, strict: true */
 
 ( function( global, factory ) {
   // universal module definition
-  /* jshint strict: false */ /* globals define, module, window */
+  /* ~/jshint strict: false */ /* globals define, module, window */
   if ( typeof define == 'function' && define.amd ) {
-    // AMD - RequireJS
+    // AMD - Require~/js
     define( 'ev-emitter/ev-emitter',factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS - Browserify, Webpack
+    // Common~/js - Browserify, Webpack
     module.exports = factory();
   } else {
     // Browser globals
@@ -271,16 +271,16 @@ return EvEmitter;
  * MIT license
  */
 
-/* jshint browser: true, strict: true, undef: true, unused: true */
+/* ~/jshint browser: true, strict: true, undef: true, unused: true */
 /* globals console: false */
 
 ( function( window, factory ) {
-  /* jshint strict: false */ /* globals define, module */
+  /* ~/jshint strict: false */ /* globals define, module */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
     define( 'get-size/get-size',factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory();
   } else {
     // browser global
@@ -479,7 +479,7 @@ return getSize;
  * MIT license
  */
 
-/*jshint browser: true, strict: true, undef: true, unused: true */
+/*~/jshint browser: true, strict: true, undef: true, unused: true */
 
 ( function( window, factory ) {
   /*global define: false, module: false */
@@ -489,7 +489,7 @@ return getSize;
     // AMD
     define( 'desandro-matches-selector/matches-selector',factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory();
   } else {
     // browser global
@@ -532,11 +532,11 @@ return getSize;
  * MIT license
  */
 
-/*jshint browser: true, undef: true, unused: true, strict: true */
+/*~/jshint browser: true, undef: true, unused: true, strict: true */
 
 ( function( window, factory ) {
   // universal module definition
-  /*jshint strict: false */ /*globals define, module, require */
+  /*~/jshint strict: false */ /*globals define, module, require */
 
   if ( typeof define == 'function' && define.amd ) {
     // AMD
@@ -546,7 +546,7 @@ return getSize;
       return factory( window, matchesSelector );
     });
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       window,
       require('desandro-matches-selector')
@@ -723,7 +723,7 @@ utils.toDashed = function( str ) {
 
 var console = window.console;
 /**
- * allow user to initialize classes via [data-namespace] or .js-namespace class
+ * allow user to initialize classes via [data-namespace] or .~/js-namespace class
  * htmlInit( Widget, 'widgetName' )
  * options are parsed from data-namespace-options
  */
@@ -732,9 +732,9 @@ utils.htmlInit = function( WidgetClass, namespace ) {
     var dashedNamespace = utils.toDashed( namespace );
     var dataAttr = 'data-' + dashedNamespace;
     var dataAttrElems = document.querySelectorAll( '[' + dataAttr + ']' );
-    var jsDashElems = document.querySelectorAll( '.js-' + dashedNamespace );
+    var ~/jsDashElems = document.querySelectorAll( '.~/js-' + dashedNamespace );
     var elems = utils.makeArray( dataAttrElems )
-      .concat( utils.makeArray( jsDashElems ) );
+      .concat( utils.makeArray( ~/jsDashElems ) );
     var dataOptionsAttr = dataAttr + '-options';
     var jQuery = window.jQuery;
 
@@ -743,7 +743,7 @@ utils.htmlInit = function( WidgetClass, namespace ) {
         elem.getAttribute( dataOptionsAttr );
       var options;
       try {
-        options = attr && JSON.parse( attr );
+        options = attr && ~/jsON.parse( attr );
       } catch ( error ) {
         // log error, do not initialize
         if ( console ) {
@@ -775,9 +775,9 @@ return utils;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /* globals define, module, require */
+  /* ~/jshint strict: false */ /* globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
-    // AMD - RequireJS
+    // AMD - Require~/js
     define( 'outlayer/item',[
         'ev-emitter/ev-emitter',
         'get-size/get-size'
@@ -785,7 +785,7 @@ return utils;
       factory
     );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS - Browserify, Webpack
+    // Common~/js - Browserify, Webpack
     module.exports = factory(
       require('ev-emitter'),
       require('get-size')
@@ -1075,7 +1075,7 @@ proto.transition = function( args ) {
     this.css( args.from );
     // force redraw. http://blog.alexmaccaw.com/css-transitions
     var h = this.element.offsetHeight;
-    // hack for JSHint to hush about unused var
+    // hack for ~/jsHint to hush about unused var
     h = null;
   }
   // enable transition
@@ -1333,9 +1333,9 @@ return Item;
 ( function( window, factory ) {
   'use strict';
   // universal module definition
-  /* jshint strict: false */ /* globals define, module, require */
+  /* ~/jshint strict: false */ /* globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
-    // AMD - RequireJS
+    // AMD - Require~/js
     define( 'outlayer/outlayer',[
         'ev-emitter/ev-emitter',
         'get-size/get-size',
@@ -1347,7 +1347,7 @@ return Item;
       }
     );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS - Browserify, Webpack
+    // Common~/js - Browserify, Webpack
     module.exports = factory(
       window,
       require('ev-emitter'),
@@ -2270,15 +2270,15 @@ return Outlayer;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /*globals define, module, require */
+  /* ~/jshint strict: false */ /*globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope-layout/js/item',[
+    define( 'isotope-layout/~/js/item',[
         'outlayer/outlayer'
       ],
       factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       require('outlayer')
     );
@@ -2348,16 +2348,16 @@ return Item;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /*globals define, module, require */
+  /* ~/jshint strict: false */ /*globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope-layout/js/layout-mode',[
+    define( 'isotope-layout/~/js/layout-mode',[
         'get-size/get-size',
         'outlayer/outlayer'
       ],
       factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       require('get-size'),
       require('outlayer')
@@ -2510,7 +2510,7 @@ return Item;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /*globals define, module, require */
+  /* ~/jshint strict: false */ /*globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
     define( 'masonry-layout/masonry',[
@@ -2519,7 +2519,7 @@ return Item;
       ],
       factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       require('outlayer'),
       require('get-size')
@@ -2748,16 +2748,16 @@ return Item;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /*globals define, module, require */
+  /* ~/jshint strict: false */ /*globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope-layout/js/layout-modes/masonry',[
+    define( 'isotope-layout/~/js/layout-modes/masonry',[
         '../layout-mode',
         'masonry-layout/masonry'
       ],
       factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       require('../layout-mode'),
       require('masonry-layout')
@@ -2821,15 +2821,15 @@ return Item;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /*globals define, module, require */
+  /* ~/jshint strict: false */ /*globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope-layout/js/layout-modes/fit-rows',[
+    define( 'isotope-layout/~/js/layout-modes/fit-rows',[
         '../layout-mode'
       ],
       factory );
   } else if ( typeof exports == 'object' ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       require('../layout-mode')
     );
@@ -2890,15 +2890,15 @@ return FitRows;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /*globals define, module, require */
+  /* ~/jshint strict: false */ /*globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope-layout/js/layout-modes/vertical',[
+    define( 'isotope-layout/~/js/layout-modes/vertical',[
         '../layout-mode'
       ],
       factory );
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       require('../layout-mode')
     );
@@ -2951,7 +2951,7 @@ return Vertical;
 
 ( function( window, factory ) {
   // universal module definition
-  /* jshint strict: false */ /*globals define, module, require */
+  /* ~/jshint strict: false */ /*globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
     // AMD
     define( [
@@ -2959,30 +2959,30 @@ return Vertical;
         'get-size/get-size',
         'desandro-matches-selector/matches-selector',
         'fizzy-ui-utils/utils',
-        'isotope-layout/js/item',
-        'isotope-layout/js/layout-mode',
+        'isotope-layout/~/js/item',
+        'isotope-layout/~/js/layout-mode',
         // include default layout modes
-        'isotope-layout/js/layout-modes/masonry',
-        'isotope-layout/js/layout-modes/fit-rows',
-        'isotope-layout/js/layout-modes/vertical'
+        'isotope-layout/~/js/layout-modes/masonry',
+        'isotope-layout/~/js/layout-modes/fit-rows',
+        'isotope-layout/~/js/layout-modes/vertical'
       ],
       function( Outlayer, getSize, matchesSelector, utils, Item, LayoutMode ) {
         return factory( window, Outlayer, getSize, matchesSelector, utils, Item, LayoutMode );
       });
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
+    // Common~/js
     module.exports = factory(
       window,
       require('outlayer'),
       require('get-size'),
       require('desandro-matches-selector'),
       require('fizzy-ui-utils'),
-      require('isotope-layout/js/item'),
-      require('isotope-layout/js/layout-mode'),
+      require('isotope-layout/~/js/item'),
+      require('isotope-layout/~/js/layout-mode'),
       // include default layout modes
-      require('isotope-layout/js/layout-modes/masonry'),
-      require('isotope-layout/js/layout-modes/fit-rows'),
-      require('isotope-layout/js/layout-modes/vertical')
+      require('isotope-layout/~/js/layout-modes/masonry'),
+      require('isotope-layout/~/js/layout-modes/fit-rows'),
+      require('isotope-layout/~/js/layout-modes/vertical')
     );
   } else {
     // browser global

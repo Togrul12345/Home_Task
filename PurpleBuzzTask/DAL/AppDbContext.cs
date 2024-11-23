@@ -11,5 +11,6 @@ namespace PurpleBuzzTask.DAL
         }
         public DbSet<TeamMate> TeamMates { get; set; }
         public DbSet<Contact> Contacts { get; set; }
+        public DbSet<Service> Services { get; set; }
     }
 }

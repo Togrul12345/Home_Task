@@ -13,9 +13,13 @@ namespace PurpleBuzzTask
            
             var app = builder.Build();
             app.UseStaticFiles();
+            app.MapControllerRoute(
+           name: "Admin",
+           pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+         );
 
             app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{Id?}");
-            
+           
             app.Run();
         }
     }

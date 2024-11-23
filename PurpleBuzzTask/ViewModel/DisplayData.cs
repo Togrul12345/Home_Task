@@ -6,5 +6,6 @@ namespace PurpleBuzzTask.ViewModel
     {
         public IEnumerable<TeamMate> Teammates {  get; set; }
         public IEnumerable<Contact> Contacts { get; set; }
+        public IEnumerable<Service> Services { get; set; }
     }
 }
