@@ -1,0 +1,38 @@
+﻿@using PurpleBuzzTask.Models;
+@model Work;
+
+
+
+<form method="post">
+  
+        <div class="mb-3 row">
+            <label for="staticEmail" asp-for="UserName" class="col-sm-2 col-form-label">Title</label>
+            <div class="col-sm-10">
+                <input asp-for="UserName" class="form-control" id="staticEmail">
+            </div>
+        </div>
+    
+    
+    <div class="mb-3 row">
+        <label for="inputPassword" asp-for="Profession" class="col-sm-2 col-form-label">Description</label>
+        <div class="col-sm-10">
+            <input asp-for="Profession" class="form-control" id="inputPassword">
+        </div>
+    </div>
+    <div class="mb-3 row">
+        <label asp-for="ImgUrl" class="col-sm-2 col-form-label">img url</label>
+        <div class="col-sm-10">
+            <input asp-for="ImgUrl" class="form-control" id="inputPassword">
+        </div>
+    </div>
+    <select  asp-for="ServiceId"  class="form-select" aria-label="Default select example">
+
+        @foreach(var item in (SelectList)ViewBag.Services){
+            <option value="@item.Text">@item.Value</option>
+        }
+      
+    
+    </select>
+
+    <button type="submit">Submit</button>
+</form>

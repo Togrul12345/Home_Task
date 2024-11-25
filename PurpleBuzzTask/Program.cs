@@ -14,7 +14,7 @@ namespace PurpleBuzzTask
             var app = builder.Build();
             app.UseStaticFiles();
             app.MapControllerRoute(
-               name: "Admin",
+               name: "Dashboard",
                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
              );
 

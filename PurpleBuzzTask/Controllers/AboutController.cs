@@ -13,7 +13,7 @@ namespace PurpleBuzzTask.Controllers
         }
         public IActionResult Index()
         {
-            TeamMate teamMate = new TeamMate()
+            Work teamMate = new Work()
             { 
                 UserName = "Muxtar Huseynov",
                 Profession = "Responsive-Design",
@@ -21,22 +21,22 @@ namespace PurpleBuzzTask.Controllers
 
 
             };
-            TeamMate teamMate2 = new TeamMate()
+            Work teamMate2 = new Work()
             {
                 UserName = "Togrul Bagirov",
                 Profession = "Backend-Developer",
                 ImgUrl = "team-03.jpg"
             };
-            TeamMate teamMate3 = new TeamMate()
+            Work teamMate3 = new Work()
             {
                 UserName = "Cebrayil Cebrayilov",
                 Profession = "Frontend-Developer",
                  ImgUrl = "team-01.jpg"
             };
 
-            //context.TeamMates.AddRange(teamMate, teamMate2, teamMate3);
+            //context.Works.AddRange(teamMate, teamMate2, teamMate3);
             //context.SaveChanges();
-            IEnumerable<TeamMate> teamMates = context.TeamMates;
+            IEnumerable<Work> Works = context.Works;
 
             
            
@@ -45,7 +45,7 @@ namespace PurpleBuzzTask.Controllers
             
      
             
-            return View(teamMates);
+            return View(Works);
         }
     }
 }
