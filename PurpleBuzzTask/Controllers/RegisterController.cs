@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using PurpleBuzzTask.DAL;
 using PurpleBuzzTask.DTOs;
 using PurpleBuzzTask.Models;
 
@@ -7,10 +8,12 @@ namespace PurpleBuzzTask.Controllers
 {
     public class RegisterController : Controller
     {
-        public  UserManager<AppUser> _userManager;
-        public RegisterController(UserManager<AppUser> userManager)
+        public readonly AppDbContext _appDbContext;
+        public UserManager<AppUser> _userManager;
+        public RegisterController(UserManager<AppUser> userManager,AppDbContext appDbContext)
         {
             _userManager = userManager;
+            _appDbContext = appDbContext;
         }
 
 
@@ -19,19 +22,27 @@ namespace PurpleBuzzTask.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Index(AppUserDTO appUserDTO)
+        public async Task<IActionResult> Index(AppUserDTO appUserDTO)
         {
             if (!ModelState.IsValid)
             {
                 return View(appUserDTO);
             }
-         AppUser user= new AppUser();
+
+            AppUser user = new AppUser();
             user.FirstName = appUserDTO.FirstName;
             user.LastName = appUserDTO.LastName;
-            user.Email=appUserDTO.Email;
-            var result = _userManager.CreateAsync(user, appUserDTO.Password);
+            user.Email = appUserDTO.Email;
+            var result = await _userManager.CreateAsync(user, appUserDTO.Password);
+            if (result.Succeeded)
+            {
+                JsonResult jsonResult = new JsonResult("User created");
+                return jsonResult;
+                
+            }
+            return RedirectToAction("Index", "Home");
 
-            return RedirectToAction("Index","Home");
+
         }
     }
 }
