@@ -1,0 +1,35 @@
+﻿
+@model IEnumerable<Employee>;
+<a class=" mb-2 btn btn-primary "   asp-action="Create" type="submit">Create</a>
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Surname</th>
+            <th scope="col">Img</th>
+            <th scope="col">EmployeeWorks</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>@item.Surname</td>
+                <td><img width="100" height="60" src="~/test/@item.ImgUrl" /></td>
+                <td>@Html.DisplayFor(modelItem=>item.EmployeeWorks)</td>
+                <td>
+                    <a class=" btn btn-primary " asp-action="Update" asp-route-Id="@item.Id" type="submit">Update</a>
+                    <a class=" btn btn-primary " asp-action="Delete" asp-route-Id="@item.Id" type="submit">Delete</a>
+                </td>
+
+
+            </tr>
+        }
+
+
+    </tbody>
+</table> 

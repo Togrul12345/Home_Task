@@ -6,11 +6,12 @@ using Microsoft.EntityFrameworkCore;
 namespace Mediplus.Services.Abstraction
 {
     public class HospitalService : IHospitalService
-    {private readonly AppDbContext _appDbContext;
+    {
+        private readonly AppDbContext _appDbContext;
         public HospitalService(AppDbContext context)
         {
             _appDbContext = context;
-            
+
         }
         public void CreateHospital(Hospital hospital)
         {
@@ -20,14 +21,14 @@ namespace Mediplus.Services.Abstraction
 
         public async Task<List<Hospital>> GetAllHospitals()
         {
-            List<Hospital> hospitals =await _appDbContext.Hospitals.ToListAsync();
-            return hospitals;   
-           
+            List<Hospital> hospitals = await _appDbContext.Hospitals.ToListAsync();
+            return hospitals;
+
         }
 
         public async Task<Hospital> GetHospitalById(int id)
         {
-            Hospital? hospital =await _appDbContext.Hospitals.FindAsync(id);
+            Hospital? hospital = await _appDbContext.Hospitals.FindAsync(id);
             return hospital;
         }
 
@@ -37,7 +38,7 @@ namespace Mediplus.Services.Abstraction
             {
                 throw new Exception("Something went wrong");
             }
-           
+
             _appDbContext.Hospitals.Remove(hospital);
             _appDbContext.SaveChanges();
         }

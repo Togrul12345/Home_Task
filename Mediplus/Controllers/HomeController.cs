@@ -31,23 +31,9 @@ namespace Mediplus.Controllers
             CreateHospitalDto doctorHospital = new CreateHospitalDto();
             return View(doctorHospital);
         }
-        [HttpPost]
-        public IActionResult CreateAppointment(CreateHospitalDto dto)
-        {
-            DoctorHospital doctorHospital=new DoctorHospital()
-            {
-                DoctorId= dto.DoctorId,
-                HospitalId= dto.HospitalId,
-            };
-            _context.DoctorHospitals.Add(doctorHospital);
-            _context.SaveChanges();
-            return RedirectToAction("PortfolioSection");
-        }
-        public IActionResult PortfolioSection()
-        {IEnumerable<Doctor> doctors= _context.Doctors; 
-            Hospital hospital=_context.Hospitals.Find()
-            return View(doctors);
-        }
+       
+       
+        
 
 
 

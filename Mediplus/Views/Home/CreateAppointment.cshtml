@@ -2,12 +2,12 @@
 @model CreateHospitalDto;
 <form method="post">
    
-    <select asp-for="HospitalId" asp-items="ViewBag.Hospitals" class="form-select" >
+    <select asp-for="HospitalName" asp-items="ViewBag.Hospitals" class="form-select" >
         <option></option>
 
      
     </select>
-    <select asp-for="DoctorId" asp-items=ViewBag.Doctors class="form-select" multiple aria-label="multiple select example">
+    <select asp-for="@Model.DoctorIds" asp-items=ViewBag.Doctors class="form-select" multiple aria-label="multiple select example">
         <option></option>
        
     </select>

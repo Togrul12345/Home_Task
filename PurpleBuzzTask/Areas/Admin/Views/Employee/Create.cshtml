@@ -1,0 +1,41 @@
+﻿@using PurpleBuzzTask.DTOs.EmployeeDTOs;
+@model CreateEmployeeDTO;
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3 row">
+        <label asp-for="Name" class="col-sm-2 col-form-label">Name</label>
+        <div class="col-sm-10">
+            <input asp-for="Name" class="form-control" id="staticEmail">
+        </div>
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="Surname" class="col-sm-2 col-form-label">Surname</label>
+        <div class="col-sm-10">
+            <input asp-for="Surname" class="form-control" id="inputPassword">
+        </div>
+        <span class="text-danger" asp-validation-for="Surname"></span>
+    </div>
+    <div class="mb-3 row">
+
+        <input class="form-control" asp-for="ImgUrl" type="file" id="formFile">
+        <span class="text-danger" asp-validation-for="ImgUrl"></span>
+    </div>
+    <div class="mb-3 row">
+        <label asp-for="Profession" class="col-sm-2 col-form-label">Profession</label>
+        <div class="col-sm-10">
+            <input asp-for="Profession" class="form-control">
+        </div>
+        <span class="text-danger" asp-validation-for="Profession"></span>
+    </div>
+       <div class="mb-3 row">
+        <label asp-for="WorkIds" class="col-sm-2 col-form-label">Works </label>
+      <select asp-for="WorkIds" asp-items="ViewBag.Works">
+          <option></option>
+      </select>
+    </div>
+
+
+
+    <button type="submit">Submit</button>
+</form>

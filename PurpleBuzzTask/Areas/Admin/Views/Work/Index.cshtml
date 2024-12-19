@@ -1,0 +1,38 @@
+﻿ @using PurpleBuzzTask.Models;
+@model IEnumerable<Work>;
+
+<a class=" mb-2 btn btn-primary " asp-action="Create" type="submit">Create</a>
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">MainImg</th>
+            <th scope="col">ServiceId</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Work item in Model)
+        {
+            <tr>
+                <td scope="row">@item.Id</td>
+                <td scope="row">@item.Title</td>
+                <td scope="row">@item.Description</td>
+                <td scope="row">
+                    <img height="100px" src="/Upload/MainImg/@item.MainImgUrl"/>
+                </td>
+                <td scope="row">@item.ServiceId</td>
+                <td scope="row">
+                    <a class=" btn btn-primary "   asp-action="Update" asp-route-Id="@item.Id" type="submit">Update</a>
+                    <a class=" btn btn-primary " asp-area="Admin" asp-controller="Work" asp-action="Delete" asp-route-Id="@item.Id" type="submit">Delete</a>
+                </td>
+
+
+            </tr>
+        }
+
+
+    </tbody>
+</table>

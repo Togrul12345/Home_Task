@@ -13,26 +13,7 @@ namespace PurpleBuzzTask.Controllers
         }
         public IActionResult Index()
         {
-            Work teamMate = new Work()
-            { 
-                UserName = "Muxtar Huseynov",
-                Profession = "Responsive-Design",
-                ImgUrl = "team-02.jpg"
-
-
-            };
-            Work teamMate2 = new Work()
-            {
-                UserName = "Togrul Bagirov",
-                Profession = "Backend-Developer",
-                ImgUrl = "team-03.jpg"
-            };
-            Work teamMate3 = new Work()
-            {
-                UserName = "Cebrayil Cebrayilov",
-                Profession = "Frontend-Developer",
-                 ImgUrl = "team-01.jpg"
-            };
+            
 
             //context.Works.AddRange(teamMate, teamMate2, teamMate3);
             //context.SaveChanges();

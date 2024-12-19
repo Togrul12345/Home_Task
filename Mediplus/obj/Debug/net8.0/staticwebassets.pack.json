@@ -1,563 +1,563 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mediplus.bundle.scp.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mediplus.bundle.scp.css",
       "PackagePath": "staticwebassets\\Mediplus.w5bx304oq4.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\animate.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\datepicker.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\datepicker.css",
       "PackagePath": "staticwebassets\\assets\\css\\datepicker.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\icofont.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\icofont.css",
       "PackagePath": "staticwebassets\\assets\\css\\icofont.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\nice-select.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\normalize.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\normalize.css",
       "PackagePath": "staticwebassets\\assets\\css\\normalize.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\owl-carousel.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\owl-carousel.css",
       "PackagePath": "staticwebassets\\assets\\css\\owl-carousel.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\responsive.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\responsive.css",
       "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\css\\slicknav.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\icofont.eot",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\icofont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\icofont.eot"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\icofont.svg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\icofont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\icofont.svg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\icofont.ttf",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\icofont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\icofont.ttf"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\icofont.woff",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\icofont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\icofont.woff"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\fonts\\icofont.woff2",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\fonts\\icofont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\icofont.woff2"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\about-img.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\about-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\author1.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\author1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\author1.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\author2.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\author2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\author2.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\author3.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\author3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\author3.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\blockqoute-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\blockqoute-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blockqoute-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\blog-sidebar1.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\blog-sidebar1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog-sidebar1.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\blog-sidebar2.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\blog-sidebar2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog-sidebar2.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\blog-sidebar3.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\blog-sidebar3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog-sidebar3.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\blog1.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\blog1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog1.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\blog2.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\blog2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog2.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\blog3.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\blog3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog3.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\bread-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\bread-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bread-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\call-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\call-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\call-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\client-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\client-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\client-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\client1.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\client1.png",
       "PackagePath": "staticwebassets\\assets\\img\\client1.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\client2.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\client2.png",
       "PackagePath": "staticwebassets\\assets\\img\\client2.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\client3.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\client3.png",
       "PackagePath": "staticwebassets\\assets\\img\\client3.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\client4.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\client4.png",
       "PackagePath": "staticwebassets\\assets\\img\\client4.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\client5.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\client5.png",
       "PackagePath": "staticwebassets\\assets\\img\\client5.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\contact-img.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\contact-img.png",
       "PackagePath": "staticwebassets\\assets\\img\\contact-img.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\fun-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\fun-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\fun-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\logo.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\map-marker.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\map-marker.png",
       "PackagePath": "staticwebassets\\assets\\img\\map-marker.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\mission-img.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\mission-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\mission-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\pf1.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\pf1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\pf1.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\pf2.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\pf2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\pf2.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\pf3.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\pf3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\pf3.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\pf4.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\pf4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\pf4.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\section-img.png",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\section-img.png",
       "PackagePath": "staticwebassets\\assets\\img\\section-img.png"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\signup-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\signup-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\signup-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\slider.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\slider.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\slider2.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\slider2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider2.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\slider3.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\slider3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider3.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\testi-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\testi-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testi-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\img\\video-bg.jpg",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\img\\video-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\video-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datepicker.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\colors.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\colors.js",
       "PackagePath": "staticwebassets\\assets\\js\\colors.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\easing.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\easing.js",
       "PackagePath": "staticwebassets\\assets\\js\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\gmaps.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\gmaps.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\gmaps.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\jquery-migrate-3.0.0.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\jquery-migrate-3.0.0.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-3.0.0.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\jquery.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\jquery.nav.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\jquery.nav.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.nav.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\map-active.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\map-active.js",
       "PackagePath": "staticwebassets\\assets\\js\\map-active.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\niceselect.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\niceselect.js",
       "PackagePath": "staticwebassets\\assets\\js\\niceselect.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\owl-carousel.js",
       "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\popper.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\slicknav.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\slicknav.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\slicknav.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\steller.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\steller.js",
       "PackagePath": "staticwebassets\\assets\\js\\steller.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\tilt.jquery.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\tilt.jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\tilt.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\js\\wow.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\assets\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\assets\\mail\\mail.php",
-      "PackagePath": "staticwebassets\\assets\\mail\\mail.php"
-    },
-    {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

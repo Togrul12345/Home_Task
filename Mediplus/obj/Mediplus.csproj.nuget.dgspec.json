@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\Mediplus.csproj": {}
+    "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\Mediplus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\Mediplus.csproj": {
+    "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\Mediplus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\Mediplus.csproj",
+        "projectUniqueName": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\Mediplus.csproj",
         "projectName": "Mediplus",
-        "projectPath": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\Mediplus.csproj",
+        "projectPath": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\Mediplus.csproj",
         "packagesPath": "C:\\Users\\Togrul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Togrul\\source\\repos\\Mediplus\\Mediplus\\obj\\",
+        "outputPath": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\Mediplus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

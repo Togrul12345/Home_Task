@@ -666,6 +666,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\scss\_variables.scss'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-10-07 082850.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Admin/testImg/Screenshot 2024-10-07 082850.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6dvo8rxxad</Fingerprint>
+      <Integrity>NqcsAjfNFHurYVA4rMQshmJ53Q88DBvFo3w414AZ5v4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-10-07 082850.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-10-15 212923.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Admin/testImg/Screenshot 2024-10-15 212923.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1uoeks7toe</Fingerprint>
+      <Integrity>x1b0zKvRjDGcB5Zz5l0dIg1KXnbRMOBAlrAXy7Qzb8s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-10-15 212923.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-10-16 200749.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Admin/testImg/Screenshot 2024-10-16 200749.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5ipweew5fc</Fingerprint>
+      <Integrity>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-10-16 200749.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-11-01 104853.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Admin/testImg/Screenshot 2024-11-01 104853.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c1ur8nu82i</Fingerprint>
+      <Integrity>0HTll/sFMVsiWkN9pGBq1XpoOrk1jk7wYm8J4b2LFy4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\testImg\Screenshot 2024-11-01 104853.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\vendor\bootstrap\js\bootstrap.js'))">
       <SourceType>Package</SourceType>
       <SourceId>PurpleBuzzTask</SourceId>
@@ -34739,6 +34811,132 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\templatemo.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\test\Screenshot 2024-10-07 082850f0de24a1-289a-43a2-97dc-8aefbcd2d29d.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>test/Screenshot 2024-10-07 082850f0de24a1-289a-43a2-97dc-8aefbcd2d29d.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6dvo8rxxad</Fingerprint>
+      <Integrity>NqcsAjfNFHurYVA4rMQshmJ53Q88DBvFo3w414AZ5v4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\test\Screenshot 2024-10-07 082850f0de24a1-289a-43a2-97dc-8aefbcd2d29d.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\1.What-is-the-difference-between-.Net-and-C-Progra618e144c-6d1b-443d-bcae-8645c0907726.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Upload/MainImg/1.What-is-the-difference-between-.Net-and-C-Progra618e144c-6d1b-443d-bcae-8645c0907726.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>24u3h6490p</Fingerprint>
+      <Integrity>MsTGO8vzaeNrAyXMOLfc8NnDEYGEac/0km9jsELMrlo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\1.What-is-the-difference-between-.Net-and-C-Progra618e144c-6d1b-443d-bcae-8645c0907726.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-10-15 2127261c15038d-c469-4642-8fc6-1a0292b409c6.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Upload/MainImg/Screenshot 2024-10-15 2127261c15038d-c469-4642-8fc6-1a0292b409c6.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ywy7x2jsyr</Fingerprint>
+      <Integrity>guXTgxaV+9F8FHyPeEt+BkH84c6RN5hdC1TtWNuO77s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-10-15 2127261c15038d-c469-4642-8fc6-1a0292b409c6.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-10-15 21284519eb4415-84da-4234-8501-8c82aeb75475.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Upload/MainImg/Screenshot 2024-10-15 21284519eb4415-84da-4234-8501-8c82aeb75475.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4p0topdayb</Fingerprint>
+      <Integrity>yBS2OZSRDdcF+qqie8bwUxQHpHASHp2Uk8m1pKeLqUk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-10-15 21284519eb4415-84da-4234-8501-8c82aeb75475.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-11-06 10212294fd080c-177e-4084-94b4-35e9cfb9d999.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Upload/MainImg/Screenshot 2024-11-06 10212294fd080c-177e-4084-94b4-35e9cfb9d999.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ujcg2blpq9</Fingerprint>
+      <Integrity>dn7ttC5ZtRym70HemdEKUQ+GlV5r4aBr8j4d6LL2zuw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-11-06 10212294fd080c-177e-4084-94b4-35e9cfb9d999.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-11-06 1021229d7b15a7-ce07-4541-ab6d-e56ead3b751b.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Upload/MainImg/Screenshot 2024-11-06 1021229d7b15a7-ce07-4541-ab6d-e56ead3b751b.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ujcg2blpq9</Fingerprint>
+      <Integrity>dn7ttC5ZtRym70HemdEKUQ+GlV5r4aBr8j4d6LL2zuw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-11-06 1021229d7b15a7-ce07-4541-ab6d-e56ead3b751b.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-12-07 141943e548e511-0c46-4187-9521-b6822fcf155b.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurpleBuzzTask</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurpleBuzzTask</BasePath>
+      <RelativePath>Upload/MainImg/Screenshot 2024-12-07 141943e548e511-0c46-4187-9521-b6822fcf155b.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>afibgeknmh</Fingerprint>
+      <Integrity>BjrmzDB/qDAJtHvKVJEzPmfyPlZ+uKXVWKmDiwWBUqI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\MainImg\Screenshot 2024-12-07 141943e548e511-0c46-4187-9521-b6822fcf155b.png'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

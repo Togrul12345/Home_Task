@@ -7,10 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Dashboard\Data\" />
-    <Folder Include="Areas\Dashboard\Models\" />
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Migrations\" />
-    <Folder Include="wwwroot\Admin\" />
+    <Folder Include="wwwroot\Admin\testImg\" />
+    <Folder Include="wwwroot\test\" />
+    <Folder Include="wwwroot\Upload\MainImg\" />
+    <Folder Include="wwwroot\Upload\AdditionalImgs\" />
   </ItemGroup>
 
   <ItemGroup>

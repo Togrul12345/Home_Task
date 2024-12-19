@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\services\\abstraction\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:services\\abstraction\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\services\\interfaces\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:services\\interfaces\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\views\\home\\createappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:views\\home\\createappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\dtos\\createhospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:dtos\\createhospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\mediplus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE59CF-68C6-4A01-A8D4-65D50FB4A09E}|Mediplus.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T12:58:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Services\\Abstraction\\HospitalService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstraction\\HospitalService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Services\\Abstraction\\HospitalService.cs",
+              "RelativeToolTip": "Services\\Abstraction\\HospitalService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:52:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHospitalService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Services\\Interfaces\\IHospitalService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IHospitalService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Services\\Interfaces\\IHospitalService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IHospitalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:52:54.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T12:43:20.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFYCAAAAAAAAAAAAAFsCAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T12:38:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateHospitalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\DTOs\\CreateHospitalDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateHospitalDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\DTOs\\CreateHospitalDto.cs",
+              "RelativeToolTip": "DTOs\\CreateHospitalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:33:59.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:31:39.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T13:51:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\Home\\CreateAppointment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateAppointment.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Views\\Home\\CreateAppointment.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateAppointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T12:33:13.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\Mediplus\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvyEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:31:55.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

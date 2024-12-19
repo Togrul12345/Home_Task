@@ -9,6 +9,7 @@ wwwroot\assets\css\normalize.css
 wwwroot\assets\css\owl-carousel.css
 wwwroot\assets\css\responsive.css
 wwwroot\assets\css\slicknav.min.css
+wwwroot\assets\css\style.css
 wwwroot\assets\fonts\fontawesome-webfont.eot
 wwwroot\assets\fonts\fontawesome-webfont.svg
 wwwroot\assets\fonts\fontawesome-webfont.ttf
@@ -76,7 +77,6 @@ wwwroot\assets\js\slicknav.min.js
 wwwroot\assets\js\steller.js
 wwwroot\assets\js\tilt.jquery.min.js
 wwwroot\assets\js\wow.min.js
-wwwroot\assets\mail\mail.php
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

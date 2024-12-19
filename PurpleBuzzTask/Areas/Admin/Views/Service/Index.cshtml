@@ -1,0 +1,44 @@
+﻿
+@model IEnumerable<Service>;
+
+<a class=" mb-2 btn btn-primary " asp-controller="Service" asp-action="Create" type="submit">Create</a>
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Img</th>
+            <th scope="col">WorkId</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Service item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+                <td><img width="100" height="60" src="~/test/@item.MainImageUrl" /></td>
+                <td>
+                    @foreach (var work in item.Works)
+                    {
+                    <p>@work.Id</p>
+                    }
+                </td>
+                
+              
+               
+                <td>
+                    <a class=" btn btn-primary " asp-action="Update" asp-route-Id="@item.Id" type="submit">Update</a>
+                    <a class=" btn btn-primary " asp-action="Delete" asp-route-Id="@item.Id" type="submit">Delete</a>
+                </td>
+
+
+            </tr>
+        }
+
+
+    </tbody>
+</table> 

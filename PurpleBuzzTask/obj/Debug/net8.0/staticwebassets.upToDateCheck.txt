@@ -35,6 +35,10 @@ wwwroot\Admin\scss\utilities\_display.scss
 wwwroot\Admin\scss\utilities\_progress.scss
 wwwroot\Admin\scss\utilities\_rotate.scss
 wwwroot\Admin\scss\utilities\_text.scss
+wwwroot\Admin\testImg\Screenshot 2024-10-07 082850.png
+wwwroot\Admin\testImg\Screenshot 2024-10-15 212923.png
+wwwroot\Admin\testImg\Screenshot 2024-10-16 200749.png
+wwwroot\Admin\testImg\Screenshot 2024-11-01 104853.png
 wwwroot\Admin\vendor\bootstrap\js\bootstrap.bundle.js
 wwwroot\Admin\vendor\bootstrap\js\bootstrap.bundle.js.map
 wwwroot\Admin\vendor\bootstrap\js\bootstrap.bundle.min.js
@@ -1928,3 +1932,10 @@ wwwroot\js\isotope.pkgd.js
 wwwroot\js\jquery.min.js
 wwwroot\js\templatemo.js
 wwwroot\js\templatemo.min.js
+wwwroot\test\Screenshot 2024-10-07 082850f0de24a1-289a-43a2-97dc-8aefbcd2d29d.png
+wwwroot\Upload\MainImg\1.What-is-the-difference-between-.Net-and-C-Progra618e144c-6d1b-443d-bcae-8645c0907726.jpg
+wwwroot\Upload\MainImg\Screenshot 2024-10-15 2127261c15038d-c469-4642-8fc6-1a0292b409c6.png
+wwwroot\Upload\MainImg\Screenshot 2024-10-15 21284519eb4415-84da-4234-8501-8c82aeb75475.png
+wwwroot\Upload\MainImg\Screenshot 2024-11-06 10212294fd080c-177e-4084-94b4-35e9cfb9d999.png
+wwwroot\Upload\MainImg\Screenshot 2024-11-06 1021229d7b15a7-ce07-4541-ab6d-e56ead3b751b.png
+wwwroot\Upload\MainImg\Screenshot 2024-12-07 141943e548e511-0c46-4187-9521-b6822fcf155b.png

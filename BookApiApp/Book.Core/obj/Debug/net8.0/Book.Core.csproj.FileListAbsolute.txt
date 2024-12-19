@@ -1,0 +1,11 @@
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\bin\Debug\net8.0\Book.Core.deps.json
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\bin\Debug\net8.0\Book.Core.dll
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\bin\Debug\net8.0\Book.Core.pdb
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\Book.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\Book.Core.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\Book.Core.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\Book.Core.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\Book.Core.dll
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\refint\Book.Core.dll
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\Book.Core.pdb
+C:\Users\Togrul\source\repos\BookApiApp\Book.Core\obj\Debug\net8.0\ref\Book.Core.dll

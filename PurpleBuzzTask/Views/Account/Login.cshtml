@@ -1,0 +1,16 @@
+﻿@model LoginDto;
+<form method="post">
+    <div class="form-group">
+        <label asp-for="EmailOrUsername">Usernameoremail</label>
+        <input asp-for="EmailOrUsername" type="text" placeholder="Enter Username or email">
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Password</label>
+        <input asp-for=Password type="password" password="Enter password">
+    </div>
+    <a>remember me</a>
+    <span>@Html.ValidationSummary()</span>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -228,6 +228,57 @@ namespace PurpleBuzzTask.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("PurpleBuzzTask.Models.Employee", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ImgUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Profession")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Surname")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Employees");
+                });
+
+            modelBuilder.Entity("PurpleBuzzTask.Models.EmployeeWork", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("EmployeeId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("WorkId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("EmployeeId");
+
+                    b.HasIndex("WorkId");
+
+                    b.ToTable("EmployeeWorks");
+                });
+
             modelBuilder.Entity("PurpleBuzzTask.Models.Service", b =>
                 {
                     b.Property<int>("Id")
@@ -236,7 +287,7 @@ namespace PurpleBuzzTask.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime?>("CreateAt")
+                    b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime?>("DeleteAt")
@@ -254,6 +305,9 @@ namespace PurpleBuzzTask.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime?>("UpdatedAt")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.ToTable("Services");
@@ -267,32 +321,60 @@ namespace PurpleBuzzTask.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime?>("CreateAt")
+                    b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime?>("DeleteAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("ImgUrl")
+                    b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Profession")
+                    b.Property<string>("MainImgUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("ServiceId")
                         .HasColumnType("int");
 
-                    b.Property<string>("UserName")
+                    b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedAt")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 
                     b.HasIndex("ServiceId");
 
                     b.ToTable("Works");
+                });
+
+            modelBuilder.Entity("PurpleBuzzTask.Models.WorkPhoto", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ImgUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsCover")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("WorkId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("WorkId");
+
+                    b.ToTable("WorkPhotos");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -346,15 +428,62 @@ namespace PurpleBuzzTask.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("PurpleBuzzTask.Models.EmployeeWork", b =>
+                {
+                    b.HasOne("PurpleBuzzTask.Models.Employee", "Employee")
+                        .WithMany("EmployeeWorks")
+                        .HasForeignKey("EmployeeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PurpleBuzzTask.Models.Work", "Work")
+                        .WithMany("EmployeeWorks")
+                        .HasForeignKey("WorkId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Employee");
+
+                    b.Navigation("Work");
+                });
+
             modelBuilder.Entity("PurpleBuzzTask.Models.Work", b =>
                 {
                     b.HasOne("PurpleBuzzTask.Models.Service", "Service")
-                        .WithMany()
+                        .WithMany("Works")
                         .HasForeignKey("ServiceId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Service");
+                });
+
+            modelBuilder.Entity("PurpleBuzzTask.Models.WorkPhoto", b =>
+                {
+                    b.HasOne("PurpleBuzzTask.Models.Work", "Work")
+                        .WithMany("WorkPhotos")
+                        .HasForeignKey("WorkId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Work");
+                });
+
+            modelBuilder.Entity("PurpleBuzzTask.Models.Employee", b =>
+                {
+                    b.Navigation("EmployeeWorks");
+                });
+
+            modelBuilder.Entity("PurpleBuzzTask.Models.Service", b =>
+                {
+                    b.Navigation("Works");
+                });
+
+            modelBuilder.Entity("PurpleBuzzTask.Models.Work", b =>
+                {
+                    b.Navigation("EmployeeWorks");
+
+                    b.Navigation("WorkPhotos");
                 });
 #pragma warning restore 612, 618
         }

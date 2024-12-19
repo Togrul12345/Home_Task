@@ -149,6 +149,22 @@
       "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_text.scss"
     },
     {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Admin\\testImg\\Screenshot 2024-10-07 082850.png",
+      "PackagePath": "staticwebassets\\Admin\\testImg\\Screenshot 2024-10-07 082850.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Admin\\testImg\\Screenshot 2024-10-15 212923.png",
+      "PackagePath": "staticwebassets\\Admin\\testImg\\Screenshot 2024-10-15 212923.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Admin\\testImg\\Screenshot 2024-10-16 200749.png",
+      "PackagePath": "staticwebassets\\Admin\\testImg\\Screenshot 2024-10-16 200749.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Admin\\testImg\\Screenshot 2024-11-01 104853.png",
+      "PackagePath": "staticwebassets\\Admin\\testImg\\Screenshot 2024-11-01 104853.png"
+    },
+    {
       "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
@@ -7421,6 +7437,30 @@
       "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Upload\\MainImg\\1.What-is-the-difference-between-.Net-and-C-Progra618e144c-6d1b-443d-bcae-8645c0907726.jpg",
+      "PackagePath": "staticwebassets\\Upload\\MainImg\\1.What-is-the-difference-between-.Net-and-C-Progra618e144c-6d1b-443d-bcae-8645c0907726.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Upload\\MainImg\\Screenshot 2024-10-15 2127261c15038d-c469-4642-8fc6-1a0292b409c6.png",
+      "PackagePath": "staticwebassets\\Upload\\MainImg\\Screenshot 2024-10-15 2127261c15038d-c469-4642-8fc6-1a0292b409c6.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Upload\\MainImg\\Screenshot 2024-10-15 21284519eb4415-84da-4234-8501-8c82aeb75475.png",
+      "PackagePath": "staticwebassets\\Upload\\MainImg\\Screenshot 2024-10-15 21284519eb4415-84da-4234-8501-8c82aeb75475.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Upload\\MainImg\\Screenshot 2024-11-06 10212294fd080c-177e-4084-94b4-35e9cfb9d999.png",
+      "PackagePath": "staticwebassets\\Upload\\MainImg\\Screenshot 2024-11-06 10212294fd080c-177e-4084-94b4-35e9cfb9d999.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Upload\\MainImg\\Screenshot 2024-11-06 1021229d7b15a7-ce07-4541-ab6d-e56ead3b751b.png",
+      "PackagePath": "staticwebassets\\Upload\\MainImg\\Screenshot 2024-11-06 1021229d7b15a7-ce07-4541-ab6d-e56ead3b751b.png"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\Upload\\MainImg\\Screenshot 2024-12-07 141943e548e511-0c46-4187-9521-b6822fcf155b.png",
+      "PackagePath": "staticwebassets\\Upload\\MainImg\\Screenshot 2024-12-07 141943e548e511-0c46-4187-9521-b6822fcf155b.png"
+    },
+    {
       "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
@@ -7719,6 +7759,10 @@
     {
       "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\js\\templatemo.min.js",
       "PackagePath": "staticwebassets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Togrul\\OneDrive\\Masaüstü\\HomeTask\\PurpleBuzzTask\\wwwroot\\test\\Screenshot 2024-10-07 082850f0de24a1-289a-43a2-97dc-8aefbcd2d29d.png",
+      "PackagePath": "staticwebassets\\test\\Screenshot 2024-10-07 082850f0de24a1-289a-43a2-97dc-8aefbcd2d29d.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PurpleBuzzTask.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
