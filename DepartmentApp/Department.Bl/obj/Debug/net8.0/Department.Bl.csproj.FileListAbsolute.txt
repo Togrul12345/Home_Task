@@ -1,0 +1,17 @@
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\bin\Debug\net8.0\Department.Bl.deps.json
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\bin\Debug\net8.0\Department.Bl.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\bin\Debug\net8.0\Department.Bl.pdb
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\bin\Debug\net8.0\Department.Core.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\bin\Debug\net8.0\Department.Data.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\bin\Debug\net8.0\Department.Data.pdb
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\bin\Debug\net8.0\Department.Core.pdb
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Department.Bl.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Department.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Department.Bl.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Department.Bl.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Department.Bl.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Departme.EE224830.Up2Date
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Department.Bl.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\refint\Department.Bl.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\Department.Bl.pdb
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Bl\obj\Debug\net8.0\ref\Department.Bl.dll

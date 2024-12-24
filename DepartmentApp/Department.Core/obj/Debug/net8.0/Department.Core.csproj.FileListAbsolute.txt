@@ -1,0 +1,12 @@
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\bin\Debug\net8.0\Department.Core.deps.json
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\bin\Debug\net8.0\Department.Core.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\bin\Debug\net8.0\Department.Core.pdb
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\Department.Core.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\Department.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\Department.Core.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\Department.Core.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\Department.Core.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\Department.Core.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\refint\Department.Core.dll
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\Department.Core.pdb
+C:\Users\Togrul\source\repos\DepartmentApp\Department.Core\obj\Debug\net8.0\ref\Department.Core.dll

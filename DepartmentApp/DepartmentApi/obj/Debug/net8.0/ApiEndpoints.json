@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "DepartmentApi.Controllers.DepartmentController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Department/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePasswordDto",
+        "Type": "Department.Bl.Dtos.AppUserDto.ChangePasswordDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DepartmentApi.Controllers.DepartmentController",
+    "Method": "EmailVerification",
+    "RelativePath": "api/Department/EmailConfirmation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DepartmentApi.Controllers.DepartmentController",
+    "Method": "Register",
+    "RelativePath": "api/Department/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAppUser",
+        "Type": "Department.Bl.Dtos.AppUserDto.CreateAppUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
