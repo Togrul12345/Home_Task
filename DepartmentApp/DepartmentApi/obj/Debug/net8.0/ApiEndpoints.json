@@ -1,6 +1,32 @@
 [
   {
     "ContainingType": "DepartmentApi.Controllers.DepartmentController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DepartmentApi.Controllers.DepartmentController",
+    "Method": "AddRole",
+    "RelativePath": "api/Department/AddRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DepartmentApi.Controllers.DepartmentController",
     "Method": "ChangePassword",
     "RelativePath": "api/Department/ChangePassword",
     "HttpMethod": "POST",
@@ -37,6 +63,22 @@
         "Name": "code",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DepartmentApi.Controllers.DepartmentController",
+    "Method": "Login",
+    "RelativePath": "api/Department/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Department.Bl.Dtos.AppUserDto.LoginDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

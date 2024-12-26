@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\departmentapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|solutionrelative:departmentapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C19CAB-6299-476E-A9EF-1B4F6C2F7112}|Department.Core\\Department.Core.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.core\\department.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14C19CAB-6299-476E-A9EF-1B4F6C2F7112}|Department.Core\\Department.Core.csproj|solutionrelative:department.core\\department.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C19CAB-6299-476E-A9EF-1B4F6C2F7112}|Department.Core\\Department.Core.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C19CAB-6299-476E-A9EF-1B4F6C2F7112}|Department.Core\\Department.Core.csproj|solutionrelative:department.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\dtos\\appuserdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\dtos\\appuserdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.data\\contexts\\departmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|solutionrelative:department.data\\contexts\\departmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\departmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|solutionrelative:departmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\dtos\\appuserdto\\createappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\dtos\\appuserdto\\createappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\dtos\\appuserdto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\dtos\\appuserdto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.data\\genericrepositories\\implementations\\repostitoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,40 +51,12 @@
       "RelativeMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|solutionrelative:department.data\\genericrepositories\\abstractions\\irepositoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\departmentapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|solutionrelative:departmentapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\dtos\\appuserdto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\dtos\\appuserdto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\profiles\\appuserprofile\\appusercreateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\profiles\\appuserprofile\\appusercreateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.data\\contexts\\departmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|solutionrelative:department.data\\contexts\\departmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|solutionrelative:department.data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.bl\\dtos\\appuserdto\\createappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3778FB81-4FC1-44A9-90B1-306910C65598}|Department.Bl\\Department.Bl.csproj|solutionrelative:department.bl\\dtos\\appuserdto\\createappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C19CAB-6299-476E-A9EF-1B4F6C2F7112}|Department.Core\\Department.Core.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C19CAB-6299-476E-A9EF-1B4F6C2F7112}|Department.Core\\Department.Core.csproj|solutionrelative:department.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Migrations\\20241224040435_ConfirmationAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Department.Data\\Migrations\\20241224040435_ConfirmationAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\departmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|solutionrelative:departmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E28A25E-CE44-4F4C-BEE6-C47148E71DF5}|DepartmentApi\\DepartmentApi.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\departmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -69,6 +73,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.data\\migrations\\20241223152030_someconfigurationadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|solutionrelative:department.data\\migrations\\20241223152030_someconfigurationadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|c:\\users\\togrul\\source\\repos\\departmentapp\\department.data\\migrations\\20241224040435_confirmationadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61816DC-2F7E-4EB9-B33D-29E95FAF5084}|Department.Data\\Department.Data.csproj|solutionrelative:department.data\\migrations\\20241224040435_confirmationadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -113,47 +121,113 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepostitoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
-              "RelativeDocumentMoniker": "Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
-              "RelativeToolTip": "Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T06:40:14.46Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IRepositoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
-              "RelativeDocumentMoniker": "Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
-              "RelativeToolTip": "Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
+              "Title": "Department.Core",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Core\\Department.Core.csproj",
+              "RelativeDocumentMoniker": "Department.Core\\Department.Core.csproj",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Core\\Department.Core.csproj",
+              "RelativeToolTip": "Department.Core\\Department.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T04:48:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Department.Bl\\Dtos\\AppUserDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\LoginDto.cs",
+              "RelativeToolTip": "Department.Bl\\Dtos\\AppUserDto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T06:38:21.522Z",
+              "WhenOpened": "2024-12-26T04:03:30.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "DepartmentApi\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "DepartmentApi\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwGwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:38:36.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Department.Bl\\Services\\Abstractions\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeToolTip": "Department.Bl\\Services\\Abstractions\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:20:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateAppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
+              "RelativeDocumentMoniker": "Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
+              "RelativeToolTip": "Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:25:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Program.cs",
+              "RelativeDocumentMoniker": "DepartmentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Program.cs",
+              "RelativeToolTip": "DepartmentApi\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:41:15.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Contexts\\DepartmentDbContext.cs",
+              "RelativeDocumentMoniker": "Department.Data\\Contexts\\DepartmentDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Contexts\\DepartmentDbContext.cs",
+              "RelativeToolTip": "Department.Data\\Contexts\\DepartmentDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:42:31.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Services\\Implementations\\AccountService.cs",
               "RelativeDocumentMoniker": "Department.Bl\\Services\\Implementations\\AccountService.cs",
               "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Services\\Implementations\\AccountService.cs",
               "RelativeToolTip": "Department.Bl\\Services\\Implementations\\AccountService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T08:21:24.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Core\\AppUser.cs",
               "RelativeDocumentMoniker": "Department.Core\\AppUser.cs",
@@ -166,20 +240,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppUserCreateProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
-              "RelativeDocumentMoniker": "Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
-              "RelativeToolTip": "Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
+              "RelativeToolTip": "Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:43:23.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T05:53:22.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "Department.Data\\Configurations\\DepartmentConfiguration.cs",
@@ -187,94 +260,47 @@
               "RelativeToolTip": "Department.Data\\Configurations\\DepartmentConfiguration.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAvwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T07:48:06.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "DepartmentApi\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "DepartmentApi\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAEgAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T07:38:36.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Services\\Abstractions\\IAccountService.cs",
-              "RelativeDocumentMoniker": "Department.Bl\\Services\\Abstractions\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Services\\Abstractions\\IAccountService.cs",
-              "RelativeToolTip": "Department.Bl\\Services\\Abstractions\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T08:20:17.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateAppUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
-              "RelativeDocumentMoniker": "Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
-              "RelativeToolTip": "Department.Bl\\Dtos\\AppUserDto\\CreateAppUserDto.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T08:25:25.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChangePasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
-              "RelativeDocumentMoniker": "Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
-              "RelativeToolTip": "Department.Bl\\Dtos\\AppUserDto\\ChangePasswordDto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T05:53:22.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DepartmentDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Contexts\\DepartmentDbContext.cs",
-              "RelativeDocumentMoniker": "Department.Data\\Contexts\\DepartmentDbContext.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Contexts\\DepartmentDbContext.cs",
-              "RelativeToolTip": "Department.Data\\Contexts\\DepartmentDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T07:42:31.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T07:48:06.229Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Program.cs",
-              "RelativeDocumentMoniker": "DepartmentApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\Program.cs",
-              "RelativeToolTip": "DepartmentApi\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBsAAAAsAAAAAAAAAA==",
+              "Title": "AppUserCreateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
+              "RelativeDocumentMoniker": "Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
+              "RelativeToolTip": "Department.Bl\\Profiles\\AppUserProfile\\AppUserCreateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T07:41:15.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T12:43:23.387Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "IRepositoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
+              "RelativeDocumentMoniker": "Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
+              "RelativeToolTip": "Department.Data\\GenericRepositories\\Abstractions\\IRepositoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:38:21.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepostitoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
+              "RelativeDocumentMoniker": "Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
+              "RelativeToolTip": "Department.Data\\GenericRepositories\\Implementations\\RepostitoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:40:14.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20241224040435_ConfirmationAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Migrations\\20241224040435_ConfirmationAdded.cs",
               "RelativeDocumentMoniker": "Department.Data\\Migrations\\20241224040435_ConfirmationAdded.cs",
@@ -282,12 +308,11 @@
               "RelativeToolTip": "Department.Data\\Migrations\\20241224040435_ConfirmationAdded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T04:04:35.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T04:04:35.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20241223155541_FormatChanged.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Migrations\\20241223155541_FormatChanged.cs",
               "RelativeDocumentMoniker": "Department.Data\\Migrations\\20241223155541_FormatChanged.cs",
@@ -299,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "20241223152030_someConfigurationAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Migrations\\20241223152030_someConfigurationAdded.cs",
               "RelativeDocumentMoniker": "Department.Data\\Migrations\\20241223152030_someConfigurationAdded.cs",
@@ -311,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\DepartmentApi\\appsettings.json",
               "RelativeDocumentMoniker": "DepartmentApi\\appsettings.json",
@@ -323,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20241223081827_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\DepartmentApp\\Department.Data\\Migrations\\20241223081827_InitialCreate.cs",
               "RelativeDocumentMoniker": "Department.Data\\Migrations\\20241223081827_InitialCreate.cs",
