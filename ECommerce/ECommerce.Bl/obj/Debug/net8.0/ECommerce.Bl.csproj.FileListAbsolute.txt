@@ -1,0 +1,36 @@
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Bl.deps.json
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Bl.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Bl.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Core.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Data.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Data.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.sourcelink.json
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerc.0EF8677F.Up2Date
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\refint\ECommerce.Bl.dll
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.pdb
+C:\Users\II Novbe\source\repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ref\ECommerce.Bl.dll
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.csproj.AssemblyReference.cache
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.AssemblyInfoInputs.cache
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.AssemblyInfo.cs
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.sourcelink.json
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.dll
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\refint\ECommerce.Bl.dll
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerce.Bl.pdb
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Bl.deps.json
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Bl.dll
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Bl.pdb
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Core.dll
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Data.dll
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Data.pdb
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\bin\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ECommerc.0EF8677F.Up2Date
+C:\Users\Togrul\Source\Repos\ECommerce\ECommerce.Bl\obj\Debug\net8.0\ref\ECommerce.Bl.dll
