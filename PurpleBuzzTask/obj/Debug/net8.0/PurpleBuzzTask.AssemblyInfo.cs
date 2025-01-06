@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PurpleBuzzTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5dae59f69bd2a3de98e436068fea25b6c9493df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab5f3652defb439aa0e97b8cf1c6d71e9ba3b9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PurpleBuzzTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PurpleBuzzTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

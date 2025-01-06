@@ -1,0 +1,17 @@
+C:\Users\Togrul\source\repos\Final\Final.Bl\bin\Debug\net8.0\Final.Bl.deps.json
+C:\Users\Togrul\source\repos\Final\Final.Bl\bin\Debug\net8.0\Final.Bl.dll
+C:\Users\Togrul\source\repos\Final\Final.Bl\bin\Debug\net8.0\Final.Bl.pdb
+C:\Users\Togrul\source\repos\Final\Final.Bl\bin\Debug\net8.0\Final.Core.dll
+C:\Users\Togrul\source\repos\Final\Final.Bl\bin\Debug\net8.0\Final.Data.dll
+C:\Users\Togrul\source\repos\Final\Final.Bl\bin\Debug\net8.0\Final.Data.pdb
+C:\Users\Togrul\source\repos\Final\Final.Bl\bin\Debug\net8.0\Final.Core.pdb
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.csproj.Up2Date
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.dll
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\refint\Final.Bl.dll
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\Final.Bl.pdb
+C:\Users\Togrul\source\repos\Final\Final.Bl\obj\Debug\net8.0\ref\Final.Bl.dll

@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{233433B0-204B-4C49-9D69-E4CF6A68724A}|PurpleBuzzTask.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241216174653_IdentityAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241216174653_IdentityAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{233433B0-204B-4C49-9D69-E4CF6A68724A}|PurpleBuzzTask.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\purplebuzztask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{233433B0-204B-4C49-9D69-E4CF6A68724A}|PurpleBuzzTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -296,6 +292,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{233433B0-204B-4C49-9D69-E4CF6A68724A}|PurpleBuzzTask.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\purplebuzztask\\migrations\\20241215191101_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{233433B0-204B-4C49-9D69-E4CF6A68724A}|PurpleBuzzTask.csproj|solutionrelative:migrations\\20241215191101_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233433B0-204B-4C49-9D69-E4CF6A68724A}|PurpleBuzzTask.csproj|c:\\users\\togrul\\onedrive\\masa\u00FCst\u00FC\\hometask\\purplebuzztask\\migrations\\20241216174653_identityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233433B0-204B-4C49-9D69-E4CF6A68724A}|PurpleBuzzTask.csproj|solutionrelative:migrations\\20241216174653_identityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -305,7 +305,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -340,8 +340,20 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 73,
               "Title": "20241216174653_IdentityAdded.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241216174653_IdentityAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20241216174653_IdentityAdded.cs",
@@ -349,12 +361,11 @@
               "RelativeToolTip": "Migrations\\20241216174653_IdentityAdded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T17:46:53.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T17:46:53.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Work\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Work\\Index.cshtml",
@@ -366,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Work.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\Work.cs",
               "RelativeDocumentMoniker": "Models\\Work.cs",
@@ -378,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "CreateWorkDTO.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\DTOs\\WorkDTOs\\CreateWorkDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\WorkDTOs\\CreateWorkDTO.cs",
@@ -390,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ServiceController.cs",
@@ -398,12 +409,11 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAqwCEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T06:57:44.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T06:57:44.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -411,8 +421,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T11:31:43.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T11:31:43.438Z"
             },
             {
               "$type": "Document",
@@ -422,14 +431,14 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAAG8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAG8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T20:37:26.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AppUserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\DTOs\\AppUserDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\AppUserDTO.cs",
@@ -437,12 +446,11 @@
               "RelativeToolTip": "DTOs\\AppUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T20:56:06.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T20:56:06.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -450,12 +458,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAvwAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:09:33.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T10:09:33.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\EmployeeController.cs",
@@ -467,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Utilities\\EmailService.cs",
               "RelativeDocumentMoniker": "Utilities\\EmailService.cs",
@@ -475,12 +482,11 @@
               "RelativeToolTip": "Utilities\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:59:50.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T16:59:50.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "UpdateWorkDTO.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\DTOs\\WorkDTOs\\UpdateWorkDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\WorkDTOs\\UpdateWorkDTO.cs",
@@ -492,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "WorkController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Controllers\\WorkController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\WorkController.cs",
@@ -504,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "FileManager.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Utilities\\FileManager.cs",
               "RelativeDocumentMoniker": "Utilities\\FileManager.cs",
@@ -516,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Work\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Work\\Update.cshtml",
@@ -528,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
@@ -540,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "WorkPhoto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\WorkPhoto.cs",
               "RelativeDocumentMoniker": "Models\\WorkPhoto.cs",
@@ -552,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
@@ -564,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Work\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Work\\Create.cshtml",
@@ -576,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Index.cshtml",
@@ -588,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "CreateEmployeeDTO.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeDTOs\\CreateEmployeeDTO.cs",
@@ -600,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 72,
               "Title": "20241215191101_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241215191101_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241215191101_InitialCreate.cs",
@@ -612,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
@@ -624,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "WorkController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Controllers\\WorkController.cs",
               "RelativeDocumentMoniker": "Controllers\\WorkController.cs",
@@ -636,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -648,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
@@ -660,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -672,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Service\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Create.cshtml",
@@ -684,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\_ViewImports.cshtml",
@@ -696,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\_ViewStart.cshtml",
@@ -708,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Models\\Service.cs",
@@ -720,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Delete.cshtml",
@@ -732,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "EmployeeWork.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\EmployeeWork.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeWork.cs",
@@ -744,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
@@ -756,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "ServiceForService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Services\\Concretes\\ServiceForService.cs",
               "RelativeDocumentMoniker": "Services\\Concretes\\ServiceForService.cs",
@@ -768,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
@@ -780,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -792,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Models\\Contact.cs",
@@ -804,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Models\\UserRole.cs",
@@ -816,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -828,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
@@ -840,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "BaseAuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Models\\Base\\BaseAuditableEntity.cs",
               "RelativeDocumentMoniker": "Models\\Base\\BaseAuditableEntity.cs",
@@ -852,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
@@ -864,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "PricingController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Controllers\\PricingController.cs",
               "RelativeDocumentMoniker": "Controllers\\PricingController.cs",
@@ -876,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "ServiceDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\DTOs\\ServiceDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ServiceDto.cs",
@@ -888,7 +894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "WorkSingleController.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Controllers\\WorkSingleController.cs",
               "RelativeDocumentMoniker": "Controllers\\WorkSingleController.cs",
@@ -900,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Work\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Work\\Index.cshtml",
@@ -912,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
@@ -924,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -936,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -948,7 +954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "RecentWorksViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\ViewComponents\\RecentWorksViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\RecentWorksViewComponent.cs",
@@ -960,7 +966,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Shared\\Components\\RecentWorks\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\RecentWorks\\Default.cshtml",
@@ -972,7 +978,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "IServiceForService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Services\\Interfaces\\IServiceForService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IServiceForService.cs",
@@ -984,7 +990,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Pricing\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Pricing\\Index.cshtml",
@@ -996,7 +1002,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -1008,7 +1014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -1020,7 +1026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -1032,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "DisplayData.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\ViewModel\\DisplayData.cs",
               "RelativeDocumentMoniker": "ViewModel\\DisplayData.cs",
@@ -1044,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Service\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Update.cshtml",
@@ -1056,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -1068,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -1080,7 +1086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "20241125055941_InitialCreate2.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241125055941_InitialCreate2.cs",
               "RelativeDocumentMoniker": "Migrations\\20241125055941_InitialCreate2.cs",
@@ -1091,7 +1097,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 60,
               "Title": "20241125052014_initialCreate2.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241125052014_initialCreate2.cs",
               "RelativeDocumentMoniker": "Migrations\\20241125052014_initialCreate2.cs",
@@ -1102,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 61,
               "Title": "20241124201029_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241124201029_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241124201029_InitialCreate.cs",
@@ -1113,7 +1119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 62,
               "Title": "20241124200702_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241124200702_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241124200702_InitialCreate.cs",
@@ -1124,7 +1130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 63,
               "Title": "related-post-03.jpg - Bitmap [600x700, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\wwwroot\\img\\related-post-03.jpg",
               "RelativeDocumentMoniker": "wwwroot\\img\\related-post-03.jpg",
@@ -1136,7 +1142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 64,
               "Title": "services-02.jpg - Bitmap [800x800, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\wwwroot\\img\\services-02.jpg",
               "RelativeDocumentMoniker": "wwwroot\\img\\services-02.jpg",
@@ -1148,19 +1154,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 68,
               "Title": "fa-brands-400.svg",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\wwwroot\\Admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
               "RelativeDocumentMoniker": "wwwroot\\Admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
               "ToolTip": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\wwwroot\\Admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
               "RelativeToolTip": "wwwroot\\Admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAA0AAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP8SURBVDhPrZRdbJNVGMd/p33b9Qtqt9HZbe2woKxsbGDYpk5DQAkTFcQPjJgY44XGEI3GmBBMNNmVNxoWojei8VITgyzGCwgRyRjJZM5JlvERt0C3dVu3rt3bD7r3bc/xYt0o4CX/5Mn5/uc85/zOgfsppZS4u6\u002Bnp\u002BdYc3PzB6VxlFIrcwGQUpLP58lms71Hjhw5PDExEbvT4S719PSMSillsVj83ygUCnJ4eFgODg7K48eP/xyJRDaVr7eWNwC6uroOd3R0VEsFBSOFzF1GZL7DmP0Rc/o3AP6dNNne1oHT6Qzb7fb6qampy4lEInGPob39NdHY2n74aq6i\u002BvpUP2sL3\u002BCc/ZZC7AyITUgVpBC/yMQcNDzSjs/n01wu18bKysrglStXLqTT6fSyoRC4H93nCz33zudrAqFn2iI2\u002B66aY3hnTjM8vpVf9A8ZqzjElta9yLlRMqabC0M3GBoaQtd1q8/ni5w/f/6nVCoV0wAczXu8Dfvf/\u002BTp7fXvvrxlzLVdfkriWo7\u002B7FGuh19kwnBycWyGrHmDV/xNNLZuoB4/hmHg8XgYGRlZzdIC4O96r7Mjsu6Ng00Da9tyH4vF4TxTopvcugPYsuA2C4TW13Jprkhf8iHEmhDV1VUEAgG8Xi9Wq3WVAgtAQ8Bz4IXG0aoW8ysxP2jiavmBLY8d4OC2AK\u002B3VJOZnsNnr0C4nQwmbMznLaX9KChDC0AD2Lwu9dTj3u\u002BdmXEHX5ufMfmHDbPwD1IpFJJ8UaNKs2Cz2xifWyKZNqhd60ApQNxmFECrDWj2t1pO19uiY\u002BKc5QvlbtstwsrC8mxKpgrzloFhmCwVChSUKg0r1F0PQJu8GtqfHP\u002B1YiDzthoN7in\u002BefGadWuNSygpUUohlQIUQirqkLQGPfg99pLZna8IQFN67NXZm3VL54o7MbNKczttls5wtdhW58br0NDzJgM3kkSTOVCKoM\u002BFx6GtJLB8jmXS8pP5zmS24vf\u002BGW1zSEs11ITrxJnpHGeuz6IME82uUfRUkSy6WIgv8KxFYLPc/gJWUl6RpbAonHuPLh2Kzcx/eW10PHFzOq0M9xoIrUdsfJilugbiShCPJwg7CjzfXIPdunLL98p69E38Ox5Mhi/1X\u002B1rCNjMTMps1DPSPRlfJDGf4lZiAVt6kaYHND7auYFKtx2EWEVGCEE0GuXUqVMndF2PWdfXMhCbYVfEPrujLt43Eqhvde1\u002B4slGv63IJq9Ge62bfU1\u002BXtpai8OmLW\u002BjhAuAsFiIRifo7e09oev6vV9Zd3d3n5RSmqZZCkOaxnIYq7G0WpqmKc\u002BePSuDwWAbK2CXSyn118mTJztL9WV0SgiV95Wzp\u002Bv638DCnU73Sf8B3E0j/55GTsEAAAAASUVORK5CYII=",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
               "WhenOpened": "2024-11-22T21:34:57.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 65,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -1172,7 +1178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 67,
               "Title": "PurpleBuzzTask.csproj",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\PurpleBuzzTask.csproj",
               "RelativeDocumentMoniker": "PurpleBuzzTask.csproj",
@@ -1184,7 +1190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 69,
               "Title": "20241122133232_InitialCreate3.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241122133232_InitialCreate3.cs",
               "RelativeDocumentMoniker": "Migrations\\20241122133232_InitialCreate3.cs",
@@ -1195,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 70,
               "Title": "20241122130444_InitialCreate2.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241122130444_InitialCreate2.cs",
               "RelativeDocumentMoniker": "Migrations\\20241122130444_InitialCreate2.cs",
@@ -1206,7 +1212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 71,
               "Title": "20241122122331_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Migrations\\20241122122331_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241122122331_InitialCreate.cs",
@@ -1217,7 +1223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 66,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Togrul\\OneDrive\\Masa\u00FCst\u00FC\\HomeTask\\PurpleBuzzTask\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",

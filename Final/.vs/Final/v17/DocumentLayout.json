@@ -1,0 +1,1292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Togrul\\source\\repos\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\extensions\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\extensions\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\exceptions\\modelsateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\exceptions\\modelsateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\concretes\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\concretes\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\contexts\\finalappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\contexts\\finalappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\profiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\profiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\profiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\profiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\colordtos\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\colordtos\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\concretes\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\concretes\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|c:\\users\\togrul\\source\\repos\\final\\final.api\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FD2D4-A502-4EBD-84FE-D4D95BE194F9}|Final.Api\\Final.Api.csproj|solutionrelative:final.api\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\abstractions\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\colordtos\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\colordtos\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\interfaces\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\interfaces\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\concretes\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\concretes\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\abstractions\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\sizedtos\\updatesizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\sizedtos\\updatesizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\sizedtos\\createsizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\sizedtos\\createsizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105183853_GuidAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.Data\\Migrations\\20250105183853_GuidAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105183358_IdAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.Data\\Migrations\\20250105183358_IdAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105175533_deletedId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.Data\\Migrations\\20250105175533_deletedId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105175244_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.Data\\Migrations\\20250105175244_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105174924_SomethingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.Data\\Migrations\\20250105174924_SomethingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105174631_SomeConfigurationsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.Data\\Migrations\\20250105174631_SomeConfigurationsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\configurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\configurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\appuserdtos\\createappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\appuserdtos\\createappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\dtos\\appuserdtos\\loginappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\dtos\\appuserdtos\\loginappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\validators\\createappuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\validators\\createappuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\validators\\createcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\validators\\createcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|c:\\users\\togrul\\source\\repos\\final\\final.core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAC8D93-0748-479C-B000-ADD4FB6DB2A5}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|c:\\users\\togrul\\source\\repos\\final\\final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36ACFD5D-50C8-4C02-A55D-BD6A15B35646}|Final.Bl\\Final.Bl.csproj|solutionrelative:final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\migrations\\20250105185351_idchanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\migrations\\20250105185351_idchanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|c:\\users\\togrul\\source\\repos\\final\\final.data\\migrations\\20250105184131_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD506E17-7486-4D7E-8E24-922724402668}|Final.Data\\Final.Data.csproj|solutionrelative:final.data\\migrations\\20250105184131_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAO0SAAAAAAAAAADwv/kSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-06T07:28:31.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T07:19:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Final.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Dockerfile",
+              "RelativeToolTip": "Final.Api\\Dockerfile",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T07:10:16.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Extensions\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Extensions\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Extensions\\ExtensionMethod.cs",
+              "RelativeToolTip": "Final.Api\\Extensions\\ExtensionMethod.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:09:21.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Program.cs",
+              "RelativeToolTip": "Final.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:28:24.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Final.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:05:14.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\AuthService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Concretes\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\AuthService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Concretes\\AuthService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:18:24.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\ColorController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "Final.Api\\Controllers\\ColorController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:48:34.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelSateException.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Exceptions\\ModelSateException.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Exceptions\\ModelSateException.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Exceptions\\ModelSateException.cs",
+              "RelativeToolTip": "Final.Bl\\Exceptions\\ModelSateException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:20:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Final.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\appsettings.json",
+              "RelativeToolTip": "Final.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T06:30:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Final.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:15:54.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Final.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:02:39.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\ColorService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Concretes\\ColorService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\ColorService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Concretes\\ColorService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:23:44.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\JwtService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Concretes\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\JwtService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Concretes\\JwtService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:10:59.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinalAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Contexts\\FinalAppDbContext.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Contexts\\FinalAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Contexts\\FinalAppDbContext.cs",
+              "RelativeToolTip": "Final.Data\\Contexts\\FinalAppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:10:30.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IColorService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Interfaces\\IColorService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IColorService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Interfaces\\IColorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:24:30.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SizeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\SizeProfile.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Profiles\\SizeProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\SizeProfile.cs",
+              "RelativeToolTip": "Final.Bl\\Profiles\\SizeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:07:26.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\ColorProfile.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Profiles\\ColorProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\ColorProfile.cs",
+              "RelativeToolTip": "Final.Bl\\Profiles\\ColorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:05:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Color.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Color.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Color.cs",
+              "RelativeToolTip": "Final.Core\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:47:11.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SizeController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\SizeController.cs",
+              "RelativeDocumentMoniker": "Final.Api\\Controllers\\SizeController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Api\\Controllers\\SizeController.cs",
+              "RelativeToolTip": "Final.Api\\Controllers\\SizeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:08:39.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateColorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ColorDtos\\CreateColorDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\ColorDtos\\CreateColorDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ColorDtos\\CreateColorDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\ColorDtos\\CreateColorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:25:39.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:27:44.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateColorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ColorDtos\\UpdateColorDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\ColorDtos\\UpdateColorDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ColorDtos\\UpdateColorDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\ColorDtos\\UpdateColorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:26:13.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Abstractions\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\IColorRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Abstractions\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:41:12.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:41:41.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SizeService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\SizeService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Concretes\\SizeService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\SizeService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Concretes\\SizeService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:12:07.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:13:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Abstractions\\ISizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:12:49.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateSizeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\SizeDtos\\UpdateSizeDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\SizeDtos\\UpdateSizeDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\SizeDtos\\UpdateSizeDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\SizeDtos\\UpdateSizeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:11:04.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISizeService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\ISizeService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Interfaces\\ISizeService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\ISizeService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Interfaces\\ISizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:09:28.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateSizeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\SizeDtos\\CreateSizeDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\SizeDtos\\CreateSizeDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\SizeDtos\\CreateSizeDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\SizeDtos\\CreateSizeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:10:29.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:27:24.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:57:34.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:06:57.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:04:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Product.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Product.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Product.cs",
+              "RelativeToolTip": "Final.Core\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:44:53.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Final.Bl\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:28:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Size.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Size.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Size.cs",
+              "RelativeToolTip": "Final.Core\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:47:43.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:03:02.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:07:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "Final.Bl\\Profiles\\ProductProfile.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:12:45.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "Final.Core\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:41:16.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Abstractions\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:08:15.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Concretes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Concretes\\CategoryService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Concretes\\CategoryService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:09:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250105185351_IdChanged.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105185351_IdChanged.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105185351_IdChanged.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105185351_IdChanged.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105185351_IdChanged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:53:51.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\AppUser.cs",
+              "RelativeDocumentMoniker": "Final.Core\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\AppUser.cs",
+              "RelativeToolTip": "Final.Core\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:14:23.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250105184131_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105184131_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105184131_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105184131_InitialCreate.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105184131_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:41:31.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250105183853_GuidAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105183853_GuidAdded.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105183853_GuidAdded.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105183853_GuidAdded.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105183853_GuidAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:38:53.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250105183358_IdAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105183358_IdAdded.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105183358_IdAdded.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105183358_IdAdded.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105183358_IdAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:33:58.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Profiles\\AuthProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Profiles\\AuthProfile.cs",
+              "RelativeToolTip": "Final.Bl\\Profiles\\AuthProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:33:03.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:09:08.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Final.Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:59:13.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Category.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Category.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\Category.cs",
+              "RelativeToolTip": "Final.Core\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:43:48.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:42:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:17:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250105174631_SomeConfigurationsAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105174631_SomeConfigurationsAdded.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105174631_SomeConfigurationsAdded.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105174631_SomeConfigurationsAdded.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105174631_SomeConfigurationsAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:46:31.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250105175533_deletedId.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105175533_deletedId.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105175533_deletedId.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105175533_deletedId.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105175533_deletedId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:55:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:03:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250105174924_SomethingAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105174924_SomethingAdded.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105174924_SomethingAdded.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105174924_SomethingAdded.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105174924_SomethingAdded.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:49:25.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250105175244_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105175244_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Migrations\\20250105175244_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Migrations\\20250105175244_InitialCreate.cs",
+              "RelativeToolTip": "Final.Data\\Migrations\\20250105175244_InitialCreate.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:52:45.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\SizeConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Configurations\\SizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\SizeConfiguration.cs",
+              "RelativeToolTip": "Final.Data\\Configurations\\SizeConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:08:45.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductSizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ProductSizeConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Configurations\\ProductSizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ProductSizeConfiguration.cs",
+              "RelativeToolTip": "Final.Data\\Configurations\\ProductSizeConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:34:00.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Final.Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:01:12.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ProductColorConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Configurations\\ProductColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ProductColorConfiguration.cs",
+              "RelativeToolTip": "Final.Data\\Configurations\\ProductColorConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:59:16.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ColorConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Configurations\\ColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\ColorConfiguration.cs",
+              "RelativeToolTip": "Final.Data\\Configurations\\ColorConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:05:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Final.Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:50:51.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:17:33.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CreateAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\AppUserDtos\\CreateAppUser.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\AppUserDtos\\CreateAppUser.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\AppUserDtos\\CreateAppUser.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\AppUserDtos\\CreateAppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:06:17.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LoginAppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\AppUserDtos\\LoginAppUserDto.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Dtos\\AppUserDtos\\LoginAppUserDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Dtos\\AppUserDtos\\LoginAppUserDto.cs",
+              "RelativeToolTip": "Final.Bl\\Dtos\\AppUserDtos\\LoginAppUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:10:10.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Services\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Final.Bl\\Services\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:10:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CreateAppUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Validators\\CreateAppUserValidator.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Validators\\CreateAppUserValidator.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Validators\\CreateAppUserValidator.cs",
+              "RelativeToolTip": "Final.Bl\\Validators\\CreateAppUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:13:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CreateCategoryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Validators\\CreateCategoryDtoValidator.cs",
+              "RelativeDocumentMoniker": "Final.Bl\\Validators\\CreateCategoryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Validators\\CreateCategoryDtoValidator.cs",
+              "RelativeToolTip": "Final.Bl\\Validators\\CreateCategoryDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:00:45.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\ProductColor.cs",
+              "RelativeDocumentMoniker": "Final.Core\\ProductColor.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\ProductColor.cs",
+              "RelativeToolTip": "Final.Core\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:57:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\ProductSize.cs",
+              "RelativeDocumentMoniker": "Final.Core\\ProductSize.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\ProductSize.cs",
+              "RelativeToolTip": "Final.Core\\ProductSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:56:01.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Core\\BaseEntity.cs",
+              "RelativeToolTip": "Final.Core\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:30:57.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Final.Bl.csproj",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Final.Bl.csproj",
+              "RelativeDocumentMoniker": "Final.Bl\\Final.Bl.csproj",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Final\\Final.Bl\\Final.Bl.csproj",
+              "RelativeToolTip": "Final.Bl\\Final.Bl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T06:29:57.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
